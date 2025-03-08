@@ -8,7 +8,7 @@ const SideBar = ({ user }: SiderbarProps) => {
       <nav className="flex flex-col gap-4">
         <Link href="/">
           <Image
-            src="/icons/logo.svg"
+            src="/icons/logo.png"
             alt="Prysm Logo"
             width={34}
             height={34}
